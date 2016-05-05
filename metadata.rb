@@ -1,0 +1,10 @@
+name 'install-mongo'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures install-mongo'
+long_description 'Installs/Configures install-mongo'
+version '0.1.0'
+
+depends 'yum', '~> 3.10.0'
+depends 'apt', '~> 3.0.0'
